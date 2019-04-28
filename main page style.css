@@ -1,0 +1,329 @@
+body{
+
+    background-image: url(background%20image.jpg);
+    color: darkblue;
+    background-attachment: fixed;
+    background-size: cover;    }
+
+
+h1{
+
+    font-size: 70;
+    font-family:fantasy;
+    text-align: center;
+    top: 40px;}
+
+.icon{
+height: 150px;
+left:170px;}
+
+.girlgif{
+    text-align: center;}
+
+form{
+    margin-top: 200px; 
+    font-size: 50;}
+
+    
+p{font-size: 30;
+    text-align: center; }
+
+h2{
+    text-align: center;
+    top: 400px;}
+ /* Container holding the image and the text */
+.container {
+  position: absolute;
+    width:70%;
+    margin-left: 15%;
+    margin-right: 15%;
+   
+}
+
+/* Bottom right text */
+.text-block {
+  position:absolute;
+  top:50%;
+ left: 150;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+} 
+
+.text-blockk {
+  position:absolute;
+  top: 50%;
+  right: 143;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+} 
+.text-blockkk {
+  position:absolute;
+  bottom:0%;
+  left:33%;
+  background-color: transparent;
+  color: darkblue;
+
+  padding-right: 40px;
+} 
+
+.text-block-pp3 {
+  position:absolute;
+  top: 71%;
+ left: 170;
+  background-color: transparent;
+  color: white;
+  padding-left: 5px;
+  padding-right: 40px;
+} 
+
+.text-blockk-pp3 {
+  position:absolute;
+  top: 71%;
+  right: 150;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+} 
+.text-blockkk-pp3 {
+  position:absolute;
+  bottom:-30;
+  left:37%;
+  background-color: transparent;
+  color: darkblue;
+  padding-right: 40px;
+    
+} 
+.comein {
+  position:absolute;
+  top: 60%;
+  right: -7;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.reject{
+  position:absolute;
+  top: 60%;
+  left: 40;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+h4{
+    font-style: oblique;
+    font-size: 2vw;
+}
+
+.take{
+  position:absolute;
+  top: 60%;
+  left: 40;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.donttake{
+  position:absolute;
+  top: 60%;
+  right: -7;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.takedonttake {
+  position:absolute;
+  bottom:-40;
+  left:37%;
+  background-color: transparent;
+  color: darkblue;
+  padding-right: 40px;
+}
+
+.wolf {
+  position:absolute;
+  bottom:-40;
+  left:37%;
+  background-color: transparent;
+  color: darkblue;
+  padding-right: 40px;
+}
+
+.runaway {
+  position:absolute;
+  top: 60%;
+  right: -7;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+.runawayy {
+  position:absolute;
+  top: 60%;
+  right: -7;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.answer {
+  position:absolute;
+  top: 60%;
+  left: 40;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+.answerr {
+  position:absolute;
+  top: 60%;
+  left: 40;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.cat {
+  position:absolute;
+  bottom:-40;
+  left:37%;
+  background-color: transparent;
+  color: darkblue;
+  padding-right: 40px;
+}
+
+.wait {
+  position:absolute;
+  top: 60%;
+  left: -10;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.dontwait {
+  position:absolute;
+  top: 60%;
+  right: -60;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.push {
+  position:absolute;
+  top: 60%;
+  left: -20;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.dontpush {
+  position:absolute;
+  top: 60%;
+  right: -60;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.take {
+  position:absolute;
+  top: 60%;
+  left: -20;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.donttake {
+  position:absolute;
+  top: 60%;
+  right: -50;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.girl {
+  position:absolute;
+  top: 60%;
+  left: -20;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.shop {
+  position:absolute;
+  top: 60%;
+  right: -60;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.yes {
+  position:absolute;
+  top: 60%;
+  left: -60;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.no {
+  position:absolute;
+  top: 60%;
+  right: -60;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.exchange {
+  position:absolute;
+  top: 60%;
+  left: 40;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.dontexchange {
+  position:absolute;
+  top: 60%;
+  right: -7;
+  background-color: transparent;
+  color: white;
+  padding-left: 20px;
+  padding-right: 40px;
+}
